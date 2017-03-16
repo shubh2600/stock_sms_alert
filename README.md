@@ -1,4 +1,7 @@
 # stock_sms_alert
+make sure to add BeautifulSoup and TwilioRestClient
+
+
 Create account on https://www.twilio.com
 get your free ph number from twilio
 copy ACCOUNT SID from dashboard section and paste in the code eg. = account_sid = "xxxxxxxxxxx"
